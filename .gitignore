@@ -1,0 +1,21 @@
+
+# Archivos compilados
+target/
+*.class
+*.jar
+*.war
+*.ear
+
+# NetBeans
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# Sistema
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
